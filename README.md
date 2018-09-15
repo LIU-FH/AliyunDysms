@@ -1,6 +1,8 @@
 # aliyunDysms
 阿里云短信服务发送短信
 
+
+
 require_once 'aliyunDysms/Dysms.php';
 
 $Dysms = new \Dysms("yourAccessKeyId",'yourAccessKeySecret');
